@@ -46,6 +46,20 @@
     "href": "index.html",
     "title": "tutorial",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#data",
+    "href": "index.html#data",
+    "title": "tutorial",
+    "section": "Data",
+    "text": "Data\nFor this analysis we’ll use the penguins dataset from palmerpenguins\nFirst load the packages\n\nlibrary(tidyverse)\nlibrary(ggthemes)\nlibrary(palmerpenguins)\nlibrary(gt)\n\n\nglimpse(penguins)"
+  },
+  {
+    "objectID": "index.html#model",
+    "href": "index.html#model",
+    "title": "tutorial",
+    "section": "Model",
+    "text": "Model"
   }
 ]
