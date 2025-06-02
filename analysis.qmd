@@ -2,8 +2,7 @@
 title: "analysis"
 ---
 
-First load the packages
----
+## First load the packages
 
 ```{r}
 #| output: false
@@ -89,5 +88,14 @@ get_most_frequent(babynames, select_sex = "M") |>
 
 \@fig-line-boys shows that names that were popular before 1990 are relatively infrequent after 2000.
 
-```{}
+```         
+```
+
+```{r}
+#| label: fig-line-boys
+#| fig-cap: "Line plot displaying proportion of top 10 boy names by year"
+get_most_frequent(babynames, select_sex = "M") |>
+  plot_top()
+
+#Then End
 ```
