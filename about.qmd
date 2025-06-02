@@ -5,5 +5,6 @@ title: "About"
 About this site: This is just a training script and the student have to practice creating a website using Quarto
 
 ```{r}
+About this site: This is just a training script and the student have to practice creating a website using Quarto 
 1 + 1
 ```
