@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-About this site
+About this site: This is just a training script and the student have to practice creating a website using Quarto
 
 ```{r}
 1 + 1
